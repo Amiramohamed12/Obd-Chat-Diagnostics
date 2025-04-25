@@ -1,6 +1,6 @@
-# Obd-Chat-Diagnostics
+🚗 Obd-Chat-Diagnostics
 
-🚗 OBD Chat Diagnostics is an intelligent vehicle diagnostic assistant that combines On-Board Diagnostics (OBD) data with powerful Machine Learning models (LSTM, LLM) to deliver real-time troubleshooting guidance for users.
+OBD Chat Diagnostics is an intelligent vehicle diagnostic assistant that combines On-Board Diagnostics (OBD) data with powerful Machine Learning models (LSTM, LLM) to deliver real-time troubleshooting guidance for users.
 Whether you're facing a check engine light or strange car behavior, this app helps decode problems and suggests actionable solutions.
 🔥 Features
 
@@ -23,18 +23,24 @@ Whether you're facing a check engine light or strange car behavior, this app hel
     Cross-Platform (developed for Linux, Raspberry Pi, Yocto)
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/3dcc84bb-11c4-4c58-af04-48d5abf93364)
+🖼️ App UI Preview
 
-🔊🗣️ Microphone Activation for Voice Input 
-![image](https://github.com/user-attachments/assets/32986196-e180-4dc2-878b-d1832fb195d9)
-
- ✉️🤖 Full Chat Interaction
-![image](https://github.com/user-attachments/assets/76ab7ab1-ef2f-43cd-a169-c5527376ea19)
+![image](https://github.com/user-attachments/assets/63a3cce0-9723-4856-800f-f15e7227ed25)
 
 
+![image](https://github.com/user-attachments/assets/aa0fd941-053b-47ae-a36b-ce404618f0c7)
 
-	
-	
+🔊🗣️ Microphone Activation for Voice Input
+
+![image](https://github.com/user-attachments/assets/04983bf8-80cf-44be-9336-64c0e9c3dbb8)
+
+🤖 Full Chat Interaction
+
+![image](https://github.com/user-attachments/assets/e0efceed-dff9-40be-8e46-2c5090776ebc)
+
+
+
+App UI
 🚀 Getting Started
 Prerequisites
 
@@ -47,17 +53,4 @@ Prerequisites
 Build and Run
 
 # Open the project with Qt Creator and build
-
-📚 Roadmap
-
-Basic LSTM and LLM integration
-
-OBD-II Code to Suggestion mapping
-
-Enhanced conversation memory
-
-Voice command improvements
-
-    Advanced repair guides based on car model/year
-
 
