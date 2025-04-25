@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/Assets/icons/microphone.png</file>
+        <file>UI/Assets/icons/microphone_active.png</file>
+    </qresource>
+</RCC>
