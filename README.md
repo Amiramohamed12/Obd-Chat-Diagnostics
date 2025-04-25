@@ -2,6 +2,7 @@
 
 OBD Chat Diagnostics is an intelligent vehicle diagnostic assistant that combines On-Board Diagnostics (OBD) data with powerful Machine Learning models (LSTM, LLM) to deliver real-time troubleshooting guidance for users.
 Whether you're facing a check engine light or strange car behavior, this app helps decode problems and suggests actionable solutions.
+
 🔥 Features
 
     OBD Code Interpretation — Understand trouble codes (DTCs) clearly.
@@ -27,6 +28,7 @@ Whether you're facing a check engine light or strange car behavior, this app hel
 
 ![image](https://github.com/user-attachments/assets/63a3cce0-9723-4856-800f-f15e7227ed25)
 
+🛎️ OBD Code Notification Popup on Entry
 
 ![image](https://github.com/user-attachments/assets/aa0fd941-053b-47ae-a36b-ce404618f0c7)
 
@@ -37,7 +39,6 @@ Whether you're facing a check engine light or strange car behavior, this app hel
 🤖 Full Chat Interaction
 
 ![image](https://github.com/user-attachments/assets/e0efceed-dff9-40be-8e46-2c5090776ebc)
-
 
 
 App UI
@@ -52,5 +53,4 @@ Prerequisites
 
 Build and Run
 
-# Open the project with Qt Creator and build
 
