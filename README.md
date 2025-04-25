@@ -23,7 +23,15 @@ Whether you're facing a check engine light or strange car behavior, this app hel
     Cross-Platform (developed for Linux, Raspberry Pi, Yocto)
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/bb473930-9933-4013-8fdb-473872e30c77)
+![image](https://github.com/user-attachments/assets/3dcc84bb-11c4-4c58-af04-48d5abf93364)
+
+🔊🗣️ Microphone Activation for Voice Input 
+![image](https://github.com/user-attachments/assets/32986196-e180-4dc2-878b-d1832fb195d9)
+
+ ✉️🤖 Full Chat Interaction
+![image](https://github.com/user-attachments/assets/76ab7ab1-ef2f-43cd-a169-c5527376ea19)
+
+
 
 	
 	
@@ -35,8 +43,6 @@ Prerequisites
     Python (optional, if ML models require pre-processing)
 
     C++17 compiler
-
-    OBD-II Adapter (Bluetooth / USB)
 
 Build and Run
 
